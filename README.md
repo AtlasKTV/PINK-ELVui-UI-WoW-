@@ -3,7 +3,8 @@
 
 -------------------------------------------------------
 
-
+ **RESOLUTION 1920x1080**
+ **UI SCALE  ** 
 1. Download and Install EVLui - >> https://www.tukui.org/download.php?ui=elvui
 
 2. Install Addon Export EVlui into >
