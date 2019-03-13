@@ -1,4 +1,4 @@
-**WORLD OF WARCRAFT** ELVui Pink UI Designed By Atalas.
+**WORLD OF WARCRAFT** ELVui Pink UI Plugin Designed By Atalas.
 
 -------------------------------------------------------
 Picture : https://imgur.com/a/dZKB3Z9
