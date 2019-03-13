@@ -6,7 +6,7 @@ Picture : https://imgur.com/a/dZKB3Z9
 
  **RESOLUTION SCALE 100%**
  
- **Window Size 1920x1080 **
+ **Window Size 1920x1080**
  
 1. Download and Install EVLui - >> https://www.tukui.org/download.php?ui=elvui
 
@@ -25,6 +25,6 @@ Picture : https://imgur.com/a/dZKB3Z9
 
 8. Click 'Import Profile'
 
-8. Paste **Script** In the Readme2.txt File. Added with the download.
+8. Paste **Script** In the **Readme2.txt File** Added with the download.
 
 9. Finni.
