@@ -5,7 +5,7 @@
 
  **RESOLUTION SCALE 100%**
  
- **UI SCALE 1920x1080 **
+ **Window Size 1920x1080 **
  
 1. Download and Install EVLui - >> https://www.tukui.org/download.php?ui=elvui
 
