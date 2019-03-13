@@ -25,6 +25,6 @@ Picture : https://imgur.com/a/dZKB3Z9
 
 8. Click 'Import Profile'
 
-8. Paste **Script** In the Script.txt File. Added with the download.
+8. Paste **Script** In the Readme2.txt File. Added with the download.
 
 9. Finni.
