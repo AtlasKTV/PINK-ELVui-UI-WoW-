@@ -1,7 +1,7 @@
 **WORLD OF WARCRAFT** ELVui Pink UI Plugin Designed By Atalas.
 
 -------------------------------------------------------
-Picture : https://imgur.com/a/dZKB3Z9
+Picture : https://imgur.com/wmQ7sRC
 -------------------------------------------------------
 
  **RESOLUTION SCALE 100%**
@@ -21,9 +21,7 @@ Picture : https://imgur.com/a/dZKB3Z9
 
 6. Scroll to 'Profiles'
 
-7. Click 'Plugin'
-
-8. Click 'Import Profile'
+7. Click 'Import Profile'
 
 8. Paste **Script** In the **Readme2.txt File** Added with the download.
 
