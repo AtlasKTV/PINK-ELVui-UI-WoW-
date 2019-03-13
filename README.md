@@ -8,9 +8,9 @@ Picture : https://imgur.com/a/dZKB3Z9
  
  **Window Size 1920x1080**
  
-1. Download and Install EVLui - >> https://www.tukui.org/download.php?ui=elvui
+1. Download and Install ELVui - >> https://www.tukui.org/download.php?ui=elvui
 
-2. Install Addon Export EVlui into >
+2. Install Addon Export ELVui into >
    - wow/interface/addons/
 
 3. Start Wow
